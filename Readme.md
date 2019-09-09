@@ -76,5 +76,5 @@ int led = 11;           // the PWM pin the LED is attached to
 The analogWrite allows us to control the brightness of the LED by toggling the LED on and off in a range from 255 to 0 so fast that it looks like the LED is fading. It lets us use the Arduino like a potentiometer whereas the digitalWrite only allows to turn it on or off (5v and 0V).
 
 
-
+## Part F. FRANKENLIGHT!!!
 
