@@ -89,7 +89,7 @@ There is a LED that emits light and a camera that take thousands of pictures to 
 
 #### c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?
 
-The device is powered via the USB cable form the computer. The mouse is on 94V so there has to be some transformation from the 5V USB.
+The device is powered via the USB cable form the computer. The mouse operates on 5V as well, so there does not seem to be any transformation.
 
 #### d. Is information stored in your device? Where? How?
 
