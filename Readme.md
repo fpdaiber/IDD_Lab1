@@ -45,7 +45,7 @@ With a delay of 15ms I could barely still detect it flashing, with 10ms I can no
 
 #### e. Modify the code to make your LED blink your way.
 
-[BlinkMyWay Code](https://github.com/fpdaiber/IDD_Lab1/blob/master/blinkMyWay)
+[BlinkMyWay Code](https://github.com/fpdaiber/IDD_Lab1/blob/master/Blink.ino)
 
 
 ### 2. Blink your LED
