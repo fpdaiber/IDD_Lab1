@@ -50,7 +50,7 @@ With a delay of 15ms I could barely still detect it flashing, with 10ms I can no
 
 ### 2. Blink your LED
 
-# Video missing!!!
+[Blinking Video](https://drive.google.com/open?id=1p5HdCCzhhM4NqdbJBKkcWuGO83pM-F91)
 
 
 ## Part D. Manually fade a LED
@@ -89,7 +89,7 @@ There is a LED that emits light and a camera that take thousands of pictures to 
 
 #### c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?
 
-The device is powered via the USB cable form the computer.
+The device is powered via the USB cable form the computer. The mouse is on 94V so there has to be some transformation from the 5V USB.
 
 #### d. Is information stored in your device? Where? How?
 
