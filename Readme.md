@@ -39,5 +39,10 @@ We want to add a resistor to protect it from frying.
 
 With a delay of 15ms I could barely still detect it flashing, with 10ms I can no longer detect it flashing. By taking a video, you can check if it is still flashing as the picture fps are not high enough.
 
+[Video proof](https://drive.google.com/file/d/1rShkwkkIYeimTYln_pymeBtIXzmQfCBs/view?usp=sharing)
+
+### e. Modify the code to make your LED blink your way.
+
+
 
 
