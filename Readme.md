@@ -81,11 +81,19 @@ The analogWrite allows us to control the brightness of the LED by toggling the L
 ### 1. Take apart your electronic device, and draw a schematic of what is inside.
 #### a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"
 
+There has to be some kind of computation that determines how fast the mouse is moving and in what direction it is moving. So, it has to calculate the movement and translate it into the movement that we see on the screen.
+
 #### b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?
+
+There is a LED that emits light and a camera that take thousands of pictures to measure how far the mouse has moved. This information is then translated and sent via the USB cable to the computer.
 
 #### c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?
 
+The device is powered via the USB cable form the computer.
+
 #### d. Is information stored in your device? Where? How?
+
+I don't think that there is any information stored within the devide.
 
 ## 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
