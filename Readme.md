@@ -58,3 +58,23 @@ With a delay of 15ms I could barely still detect it flashing, with 10ms I can no
 [Manual fading video](https://drive.google.com/open?id=1eic9VNwoTOcWFWR3KyC3RD8JYtNe1lD9)
 
 
+### a.	Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?
+No, the LED turns off if the potentiometer is on the highest resistance because the resistance consumes all the current and the LED does not light up anymore.
+
+
+## Part E. 
+
+### a. What do you have to modify to make the code control the circuit you've built on your breadboard?
+
+I had to change the led variable to 11.
+
+```C++
+int led = 11;           // the PWM pin the LED is attached to
+```
+
+### b. What is analogWrite()? How is that different than digitalWrite()?
+The analogWrite allows us to control the brightness of the LED by toggling the LED on and off in a range from 255 to 0 so fast that it looks like the LED is fading. It lets us use the Arduino like a potentiometer whereas the digitalWrite only allows to turn it on or off (5v and 0V).
+
+
+
+
