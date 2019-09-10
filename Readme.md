@@ -87,7 +87,7 @@ There has to be some kind of computation that determines how fast the mouse is m
 
 #### b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?
 
-There is a LED that emits light and a camera that take thousands of pictures to measure how far the mouse has moved. This information is then translated and sent via the USB cable to the computer.
+There is a LED that emits light and a camera that take thousands of pictures to measure how far the mouse has moved. This information is then translated and sent via the USB cable to the computer. There is also a sensor that recognized physical feedback (clicking) as well as a sensor that recognized movement of the trackball.
 
 #### c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?
 
@@ -100,6 +100,8 @@ I don't think that there is any information stored within the devide.
 ## 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
 ![alt text](https://github.com/fpdaiber/IDD_Lab1/blob/master/Schematic.jpg)
+
+Connecting the LED directly to the USB connector worked best and the LED light up brightly. It also worked on a couple of other positions, however, the current was not as strong and it the light was hard to notice.
 
 [Implanted LED video](https://drive.google.com/open?id=19sNY2EhpRVeI0Qbh8FzOmWWZGh9inMtL)
 
