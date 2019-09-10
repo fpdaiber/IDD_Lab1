@@ -106,4 +106,6 @@ I don't think that there is any information stored within the devide.
 
 ### 3. Build your light!
 
+![alt text](https://github.com/fpdaiber/IDD_Lab1/blob/master/Frankenlight.jpg)
+
 [Franklight Video](https://drive.google.com/open?id=112mcrJpByIPBu6Zj68aU73o-O15bNOg4)
