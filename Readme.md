@@ -20,6 +20,8 @@ Lab report for the first IDD lab by Fabio Daiber
 ### b. What do you have to do to light your LED?
 I have to press the button to complete the circuit. 
 
+![alt text](https://github.com/fpdaiber/IDD_Lab1/blob/master/Manual%20blink.jpg)
+
 
 ## Part C. Blinking an LED using Arduino 
 
