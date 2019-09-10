@@ -1,6 +1,6 @@
 # Designing Interactive Devices Lab1: Make it blink!
 
-Lab report for the first IDD lab by Fabio Daiber
+Lab report for the IDD lab 1 by Fabio Daiber
 
 
 ## Part A: Setting up the board 
@@ -100,8 +100,6 @@ I don't think that there is any information stored within the devide.
 ## 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
 ![alt text](https://github.com/fpdaiber/IDD_Lab1/blob/master/Schematic.jpg)
-
-Connecting the LED directly to the USB connector worked best and the LED light up brightly. It also worked on a couple of other positions, however, the current was not as strong and it the light was hard to notice.
 
 [Implanted LED video](https://drive.google.com/open?id=19sNY2EhpRVeI0Qbh8FzOmWWZGh9inMtL)
 
