@@ -101,6 +101,7 @@ I don't think that there is any information stored within the devide.
 
 ![alt text](https://github.com/fpdaiber/IDD_Lab1/blob/master/Schematic.jpg)
 
+[Implanted LED video](https://drive.google.com/open?id=19sNY2EhpRVeI0Qbh8FzOmWWZGh9inMtL)
 
 
 ### 3. Build your light!
