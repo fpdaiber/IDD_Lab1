@@ -99,11 +99,10 @@ I don't think that there is any information stored within the devide.
 
 ## 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
-![alt text]
+![alt text](https://github.com/fpdaiber/IDD_Lab1/blob/master/Schematic.jpg)
+
+
 
 ### 3. Build your light!
 
-
-# Make a video showing off your Frankenlight.
-
-# Include any schematics or photos in your lab write-up.
+[Franklight Video](https://drive.google.com/open?id=112mcrJpByIPBu6Zj68aU73o-O15bNOg4)
