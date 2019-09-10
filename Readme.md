@@ -99,6 +99,7 @@ I don't think that there is any information stored within the devide.
 
 ## 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
+![alt text]
 
 ### 3. Build your light!
 
